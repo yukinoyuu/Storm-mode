@@ -25,7 +25,7 @@ Submitted to the 2023 NextEra Energy Hackathon and won Second Place.
 
 This hackathon was a codeless hackathon.
 
-This project was done in conjunction with Isaiah Rohrer (https://github.com/theta205), Desree Oganah, Jaskaran Chawla, and Isaiah Rohrer (me)
+This project was done in conjunction with Isaiah Rohrer (https://github.com/theta205), Desree Oganah, Jaskaran Chawla, and Ivan Lepesii (me)
 
 Link to presentation given to judges below.
 
